@@ -19,10 +19,22 @@ nav {
 /*Jumbotron */
 
 .jumbotron {
-  background-image: url("../../resources/img/jumbotron-bike.jpg");
   color: white;
   text-align: center;
   padding: 11.85rem 0;
+  background-size: cover;
+}
+.jumbotron-bike {
+  background-image: url("../../resources/img/jumbotron-bike.jpg");
+}
+.jumbotron-beer {
+  background-image: url("../../resources/img/jumbotron-beer.jpg");
+}
+.jumbotron-flowers {
+  background-image: url("../../resources/img/jumbotron-flowers.jpg");
+}
+.jumbotron-duffel {
+  background-image: url("../../resources/img/jumbotron-duffel.jpg");
 }
 .jumbotron h1 {
   font-family: 'Monoton', cursive;
