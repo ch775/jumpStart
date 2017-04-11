@@ -1,3 +1,19 @@
-h1 {
-  font-family: 'Monoton', cursive;
+html {
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
 }
+/*Navigation Bar*/
+
+.active {
+  color: #399bd1;
+}
+a {
+  font-weight: bold;
+  font-size: 1.1rem;
+  color:rgba(0,0,0, 0.7);
+}
+nav {
+  background-color: #f3f3f3;
+}
+
+/*Navigation Bar Queries*/
