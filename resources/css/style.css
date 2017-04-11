@@ -58,3 +58,15 @@ h2 {
 img {
   width: 100%;
 }
+.categories l1 {
+  line-height: 1.4rem;
+  color: rgba(0,0,0,0.7);
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+.blue {
+  color: #399bd1;
+}
