@@ -79,3 +79,25 @@ h3 {
 .projects {
   margin-bottom: 5.85rem;
 }
+
+/*Footer*/
+
+.footer strong {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin: 0 auto;
+  margin-bottom: 1.4rem;
+  display: inline-block;
+}
+
+.footer p {
+  margin: 0 auto;
+  max-width: 42rem;
+}
+
+.footer {
+  padding: 5.2rem 0;
+  background-color: #f3f3f3;
+  text-align: center;
+  width: 100%;
+}
