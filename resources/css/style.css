@@ -23,6 +23,9 @@ nav {
   text-align: center;
   padding: 11.85rem 0;
   background-size: cover;
+  height: 44rem;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .jumbotron-bike {
   background-image: url("../../resources/img/jumbotron-bike.jpg");
